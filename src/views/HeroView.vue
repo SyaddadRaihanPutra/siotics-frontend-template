@@ -11,7 +11,7 @@
             checkout to global sales tax compliance, companies around the world use Flowbite to simplify their payment
             stack.</p>
           <a href="#"
-            class="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-white-900 border border-gray-300 rounded-lg hover:bg-blue-100 focus:ring-4 focus:ring-blue-100 dark:text-white dark:border-blue-700 dark:hover:bg-blue-700 bg-blue-600 dark:focus:ring-blue-800 mr-3">
+            class="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-white border border-gray-300 rounded-lg hover:bg-blue-100 focus:ring-4 focus:ring-blue-100 dark:text-white dark:border-blue-700 dark:hover:bg-blue-700 bg-blue-600 dark:focus:ring-blue-800 mr-3">
             Get started
             <svg class="w-5 h-5 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
               <path fill-rule="evenodd"
