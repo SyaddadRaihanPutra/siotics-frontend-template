@@ -68,7 +68,7 @@
                                 in</button>
                             <p class="text-center text-gray-900 dark:text-white text-sm">Or Sign in with</p>
                             <button type="button"
-                                class="text-dark justify-center bg-white w-full hover:bg-white/90 focus:ring-4 focus:outline-none focus:ring-[#4285F4]/50 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:focus:ring-[#4285F4]/55 mr-2 mb-2">
+                                class="text-dark justify-center bg-white w-full hover:bg-white/90 dark:border-gray-200 focus:ring-4 focus:outline-none focus:ring-[#4285F4]/50 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:focus:ring-[#4285F4]/55 mr-2 mb-2">
                                 <svg class="w-4 h-4 mr-2 -ml-1" xmlns="http://www.w3.org/2000/svg" width="705.6"
                                     height="720" viewBox="0 0 186.69 190.5" xmlns:v="https://vecta.io/nano">
                                     <g transform="translate(1184.583 765.171)">
