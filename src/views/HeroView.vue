@@ -31,7 +31,7 @@
     </section>
 
     <section class="bg-white dark:bg-gray-900">
-      <h1 class="text-center font-bold text-white uppercase text-2xl">Who We Are<span class="text-red-500">.</span></h1>
+      <h1 class="text-center font-bold text-gray-900 dark:text-white uppercase text-2xl">Who We Are<span class="text-red-500">.</span></h1>
       <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
         <img class="w-full dark:hidden"
           src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/cta/cta-dashboard-mockup.svg" alt="dashboard image">
